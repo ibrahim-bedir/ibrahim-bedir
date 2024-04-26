@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-bedir&show_icons=true&locale=en" alt="ibrahim-bedir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-bedir&" alt="ibrahim-bedir" /></p>
+<p><a href="https://app.daily.dev/ibrahimbdr1"><img src="https://api.daily.dev/devcards/v2/aF0GnpGL34gP92fie9szC.png?r=lb5" width="356" alt="ibrahim bedir's Dev Card"/></a></p>
+
+
